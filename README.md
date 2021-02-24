@@ -13,4 +13,4 @@ the order is : zip(1-25) --> zips(1-25) --> nest(1-25) --> level(1-25) --> (1-25
 it took me around ~5h to generate all the folders manually in a windows vista vm (as i was just playing with hierarchy at the beginning-) for a total size of... 0 B.
 0 files, (enter later) folders.
 
-(i will upload the final project to https://github.com/butterfl1es/26/releases later in the day, and upload all the levels to the code section.)
+(i will upload the final project to https://github.com/butterfl1es/25/releases later in the day, and upload all the levels to the code section.)
