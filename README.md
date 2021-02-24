@@ -1,5 +1,4 @@
 # 25
-a zip bomb that was made with zips and folders, but no files
 
 
 # /!\ AS IT IS A ZIP BOMB, DO NOT TRY UNZIPPING IT OR EVEN LETTING WINDOWS DEFENDER DO ANY ACTION ABOUT MY ZIP BOMB IN YOUR HOST (as it will extract it trying to delete it...).
