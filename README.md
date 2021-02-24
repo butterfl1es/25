@@ -1,8 +1,8 @@
-# 26
+# 25
 a zip bomb that was made with zips and folders, but no files
 
 
-/!\ AS IT IS A ZIP BOMB, DO NOT TRY UNZIPPING IT OR EVEN LETTING WINDOWS DEFENDER DO ANY ACTION ABOUT MY ZIP BOMB IN YOUR HOST (as it will extract it trying to delete it...).
+# /!\ AS IT IS A ZIP BOMB, DO NOT TRY UNZIPPING IT OR EVEN LETTING WINDOWS DEFENDER DO ANY ACTION ABOUT MY ZIP BOMB IN YOUR HOST (as it will extract it trying to delete it...).
 I AM NOT RESPONSIBLE FOR ANY DAMAGE CAUSED TO YOUR COMPUTER. IT IS YOUR RESPONSIBILITY TO CREATE A VM TO TEST IT.
 
 SORRY FOR BAD ENGLISH! (i'm not english actually so yeah-)
